@@ -150,15 +150,15 @@ footer li{
 }
 
 .twitter{
-	background-image: url("twitter.svg");
+	background-image: url("../img/twitter.svg");
 }
 
 .linkedin{
-	background-image: url("linkedin.svg");
+	background-image: url("../img/linkedin.svg");
 }
 
 .github{
-	background-image: url("github.svg");
+	background-image: url("../img/github.svg");
 }
 
 a.social:hover {
