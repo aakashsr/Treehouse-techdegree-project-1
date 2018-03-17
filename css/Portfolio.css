@@ -150,15 +150,15 @@ footer li{
 }
 
 .twitter{
-	background-image:url("img/twitter.svg");
+	background-image:url("https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/twitter-256.png");
 }
 
 .linkedin{
-	background-image:url("img/linkedin.svg");
+	background-image:url("https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-256.png");
 }
 
 .github{
-	background-image:url("img/github.svg");
+	background-image:url("https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png");
 }
 
 a.social:hover {
